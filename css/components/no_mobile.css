@@ -3,7 +3,7 @@
 #no-mobile {
   position: absolute;
   z-index: 99;
-  height: 100vh;
+  height: 100000vh;
   background-color: pink;
   width: 100vw;
   display: flex;
